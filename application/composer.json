@@ -1,0 +1,14 @@
+{
+    "name": "picpay/poc-google-auth",
+    "description": "POC para login com o Google Auth",
+    "authors": [
+        {
+            "name": "Ruhan de Oliveira Baiense",
+            "email": "rdgitarra@gmail.com"
+        }
+    ],
+    "require": {
+        "google/apiclient": "^2.0",
+        "guzzlehttp/guzzle": "^6.5"
+    }
+}
